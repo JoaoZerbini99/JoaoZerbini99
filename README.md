@@ -17,5 +17,4 @@
   
   💭💭Amo a tecnologica a cada momento que aprendo mais sobre ela, e como e possivel impactar e transforma vidas! 💭💭
 
-  ## Email para contato:
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([jvzesky@gmail.com](https://mail.google.com/mail/u/0/#inbox))
+ 
