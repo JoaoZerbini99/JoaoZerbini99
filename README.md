@@ -15,6 +15,6 @@
 </div><br/>
   
   
-  💭💭Amo a tecnologica a cada momento que aprendo mais sobre ela, e como e possivel impactar e transforma vidas! 💭💭
+ 
 
  
